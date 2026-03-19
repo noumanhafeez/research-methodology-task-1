@@ -116,6 +116,7 @@ Limited by training data
 You can connect multiple prompts to solve big problems.
 
 Example:
+
 1. “Create startup idea”
 2. “Make business plan”
 3. “Create marketing strategy”
