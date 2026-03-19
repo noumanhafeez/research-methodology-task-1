@@ -58,7 +58,8 @@ Format: Include brief conclusion at the end
 
 ## 🔑 Final Tips
 
-1. Use **headers** to divide sections  
+
+1. Use **headers** to divide sections
 2. Use **bold** for key points  
 3. Use **quotation marks** to clarify meaning  
 4. Use **delimiters** to separate instructions, context, or examples  
